@@ -1,0 +1,6 @@
+c:\users\home01\documents\visual studio 2015\Projects\PF02 CSharp Condit-Statements  Loops Lab\11. Odd Number\bin\Debug\_11.Odd_Number.exe.config
+c:\users\home01\documents\visual studio 2015\Projects\PF02 CSharp Condit-Statements  Loops Lab\11. Odd Number\obj\Debug\11. Odd Number.csprojResolveAssemblyReference.cache
+c:\users\home01\documents\visual studio 2015\Projects\PF02 CSharp Condit-Statements  Loops Lab\11. Odd Number\bin\Debug\_11.Odd_Number.exe
+c:\users\home01\documents\visual studio 2015\Projects\PF02 CSharp Condit-Statements  Loops Lab\11. Odd Number\bin\Debug\_11.Odd_Number.pdb
+c:\users\home01\documents\visual studio 2015\Projects\PF02 CSharp Condit-Statements  Loops Lab\11. Odd Number\obj\Debug\_11.Odd_Number.exe
+c:\users\home01\documents\visual studio 2015\Projects\PF02 CSharp Condit-Statements  Loops Lab\11. Odd Number\obj\Debug\_11.Odd_Number.pdb
